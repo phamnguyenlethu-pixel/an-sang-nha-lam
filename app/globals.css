@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FF9800;
+  --color-primary-foreground: #ffffff;
+  --font-sans: var(--font-inter);
+}
+
+:root {
+  --background: #fffbf5; /* Slightly warm background to match orange */
+  --foreground: #171717;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
