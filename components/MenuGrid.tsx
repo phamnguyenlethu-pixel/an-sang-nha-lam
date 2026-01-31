@@ -9,7 +9,7 @@ const products = [
     { id: 4, name: 'Bánh Mì Hamburger thịt', price: '15.000đ', desc: 'Bánh mì giòn, thịt heo thơm ngon.', image: '/images/image6.png' },
     { id: 5, name: 'Bánh Mì Hamburger Xúc xích', price: '15.000đ', desc: 'Bánh mì giòn, xúc xích thơm ngon.', image: '/images/image4.png' },
     { id: 6, name: 'Cơm cuộn', price: '15.000đ', desc: 'Cơm dẻo ngon, nhân đầy đặn, giàu dinh dưỡng.', image: '/images/image2.png' },
-    { id: 7, name: 'Mì Ý Sốt Bò', price: '15.000đ', desc: 'Sốt bò bằm cà chua đậm đà, mì dai ngon.', image: '/images/image3.png' },
+    { id: 7, name: 'Mì Ý', price: '15.000đ', desc: 'Sốt bò bằm cà chua đậm đà, mì dai ngon.', image: '/images/image3.png' },
     { id: 8, name: 'Mì Trộn Thập Cẩm', price: '20.000đ', desc: 'Nhiều toppin, sốt trộn đặc biệt hấp dẫn.', image: '/images/image4.png' },
     { id: 9, name: 'Sandwich Kẹp', price: '15.000đ', desc: 'Tiện lợi, nhanh gọn, đầy đủ năng lượng.', image: '/images/image5.png' },
     { id: 10, name: 'Nui Xào Bò', price: '20.000đ', desc: 'Món ăn yêu thích của các bé, mềm dễ ăn.', image: '/images/image6.png' },
