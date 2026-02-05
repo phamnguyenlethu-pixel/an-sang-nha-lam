@@ -14,7 +14,7 @@ const products = [
     { id: 9, name: 'Sandwich Kẹp', price: '15.000đ', desc: 'Tiện lợi, nhanh gọn, đầy đủ năng lượng.', image: '/images/image5.png' },
     { id: 10, name: 'Nui Xào Bò', price: '20.000đ', desc: 'Món ăn yêu thích của các bé, mềm dễ ăn.', image: '/images/image6.png' },
     { id: 11, name: 'Súp Cua óc Heo', price: '25.000đ', desc: 'Bổ dưỡng cho trí não bé.', image: '/images/image7.png' },
-    { id: 12, name: 'Cháo Sườn', price: '15.000đ', desc: 'Nấu nhừ, thơm ngon.', image: '/images/image8.png' },
+    { id: 12, name: 'Cháo Sườn', price: '15.000đ', desc: 'Nấu nhừupdate menu grid data, thơm ngon.', image: '/images/image8.png' },
     { id: 13, name: 'Bún Thịt Nướng', price: '25.000đ', desc: 'Thơm ngon đậm đà hương vị truyền thống.', image: '/images/image9.png' },
     { id: 14, name: 'Xôi Mặn', price: '15.000đ', desc: 'Xôi dẻo, topping ngập tràn.', image: '/images/image10.png' },
     { id: 15, name: 'Bánh Cuốn', price: '20.000đ', desc: 'Nóng hổi, nhân thịt mộc nhĩ.', image: '/images/image11.png' },
